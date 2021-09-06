@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+body {
+	background: fixed url('https://www.teahub.io/photos/full/176-1763459_database.png');
+	background-size: cover;
+  background-position: center center;
+}
+
+.text {
+	color: black;
+	position: absolute;
+	left: 43%
+}
+
+.maintext {
+	color: black;
+	position: absolute;
+	left: 20%;
+	top: 10%;
+	height: 40%;
+	width: 40%;
+}
+
+.border {
+	position: absolute;
+	left: 70%;
+	top: 10%;
+	width: 300px;
+  height: 360px;
+	padding: 40px 20px;
+	background-color: rgba(20, 20, 20, 0.85);
+	border-radius: 20px;
+}
+
+.border h2 {
+	color: white;
+	position: absolute;
+	left: 30%;
+	top: 40%;
+}
+
+.border .fod {
+	width: 20%;
+	position: absolute;
+	left: 5%;
+	top: 40%;
+}
+
+.border .other {
+	width: 90%;
+	height: 35%;
+	position: absolute;
+	top: 03%;
+}
+
+.border h4 {
+	color: white;
+	position: absolute;
+	left: 8%;
+	top: 60%;
+}
+
+.border button {
+	position: absolute;
+	top: 85%;
+	left: 23%;
+	width: 60%;
+	height: 10%;
+	background: #27C72C;
+	border: none;
+	outline: none;
+	color: white;
+	border-radius: 10%;
+	padding: 20px 10px;
+}
